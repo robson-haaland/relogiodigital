@@ -27,8 +27,13 @@ Layout básico e direto ao ponto, com visual limpo para facilitar a leitura da h
 
 ## 💻 Como Usar
 
-1. Clone o repositório:
 https://github.com/robson-haaland/relogiodigital.git
+
+🙌 Agradecimentos
+Créditos ao desenvolvedor Robson Condes.
+Agradecimento especial à Larissa Kich pela ajuda e incentivo no aprendizado.
+
+
 
 
 
